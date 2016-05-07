@@ -1,0 +1,11 @@
+1. In Java, Modulus (%) operator can be applied to floating-point types as well as integer types. In C/C++, it can be applied only to integer types.
+
+2. In C/C++, true is any nonzero value and false is zero. In Java, true and false are nonnumeric values which do not relate to zero or nonzero.
+
+3. In C/C++, comma is an operator that can be used in any valid expression. But, in Java the comma is a separator that applies only to the for loop.
+
+4. In Java, an object reference is similar to a memory pointer. The main difference and the key to Java's safety is that we cannot manipulate the references as we can with actual pointers. Thus, we cannot cause an object reference to point to an arbitrary memory location or manipulate it like an integer.
+
+5. In C, the function abs() returns the absolute value of an integer, labs() returns the absolute value of a long integer, and fabs() retruns the absolute value of a floating point value. Since, C does not support overloading, each function has to have its own name. Whereas, in Java, we can have same name for different methods, i.e., they can be overloaded.
+
+6. In Java, their is no support for inheritance of multiple superclasses into a single subclass. This differs from C++, in which we can inherit multiple base classes.
