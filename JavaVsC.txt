@@ -11,3 +11,5 @@
 6. In Java, their is no support for inheritance of multiple superclasses into a single subclass. This differs from C++, in which we can inherit multiple base classes.
 
 7. Java does not have a generalized console input method that parallels the standard C function scanf() or C++ input operators.
+
+8. In C/C++, input functions return the same value when an error occurs and when the end of the file is reached. In Java, errors are passed to the program via exceptions, not by values.
