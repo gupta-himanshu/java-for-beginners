@@ -9,3 +9,5 @@
 5. In C, the function abs() returns the absolute value of an integer, labs() returns the absolute value of a long integer, and fabs() retruns the absolute value of a floating point value. Since, C does not support overloading, each function has to have its own name. Whereas, in Java, we can have same name for different methods, i.e., they can be overloaded.
 
 6. In Java, their is no support for inheritance of multiple superclasses into a single subclass. This differs from C++, in which we can inherit multiple base classes.
+
+7. Java does not have a generalized console input method that parallels the standard C function scanf() or C++ input operators.
