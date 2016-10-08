@@ -5,3 +5,6 @@
 3. In Java 2, version 1.4, both String and StringBuffer implement the CharSequence interface.
 
 4. The contents of a String instance cannot be changed after it has been created, but, a variable declared as a String reference can be changed to point at some other String object at any time.
+
+5. The contents of the array are copied whenever we create a String object from an array. If we modify the contents of the array after we have 
+created the string, the String will be unchanged.
