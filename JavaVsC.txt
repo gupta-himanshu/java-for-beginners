@@ -13,3 +13,5 @@
 7. Java does not have a generalized console input method that parallels the standard C function scanf() or C++ input operators.
 
 8. In C/C++, input functions return the same value when an error occurs and when the end of the file is reached. In Java, errors are passed to the program via exceptions, not by values.
+
+9. Other languages implement strings as Character arrays, but Java implements strings as objects of type String.
