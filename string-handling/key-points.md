@@ -8,3 +8,6 @@
 
 5. The contents of the array are copied whenever we create a String object from an array. If we modify the contents of the array after we have 
 created the string, the String will be unchanged.
+
+6. When Java converts data into its string representation during concatenation, it does so by calling one of the overloaded versions of the 
+string conversion method **valueOf()** defined by String.
