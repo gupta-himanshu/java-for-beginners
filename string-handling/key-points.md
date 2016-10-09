@@ -11,3 +11,5 @@ created the string, the String will be unchanged.
 
 6. When Java converts data into its string representation during concatenation, it does so by calling one of the overloaded versions of the 
 string conversion method **valueOf()** defined by String.
+
+7. The equals() method compares the characters inside a String object. The == operator compares two object references to see whether they refer to the same instance.
